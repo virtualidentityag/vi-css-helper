@@ -1,0 +1,10 @@
+{
+  "name": "vi-css-helper",
+  "version": "1.0.0",
+  "description": "css helper classes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualidentityag/vi-css-helper.git"
+  },
+  "author": "VI"
+}
