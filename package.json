@@ -1,5 +1,5 @@
 {
-  "name": "vi-css-helper",
+  "name": "@virtualidentity/css-helper",
   "version": "2.0.0",
   "description": "css base/helper extracted from html5 boilerplate",
   "repository": {
